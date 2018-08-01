@@ -1,0 +1,8 @@
+@charset "UTF-8";
+#myCarousel {
+	margin-top:80px;
+}
+.carousel-inner img{
+    /* width:1700px !important;  */
+	height:520px !important;
+}

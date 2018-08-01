@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.navbar a {
+	text-decoration: none;
+	color: #93c7d8 !important;
+}
+.navbar a:hover {
+	color: #17a4d2 !important;
+}
+.navbar .navbar-brand {
+	font-size: 30px;
+}
+.container {
+position:static !important;
+}
+.error {
+        color: red;
+}
+
+#navUl span {
+	color: blue;
+}
